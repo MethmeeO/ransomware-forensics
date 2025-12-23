@@ -1,0 +1,36 @@
+File Name: file1.txt
+Path: \forensic_tool\ScanFolder\file1.txt
+Size: 0.05 KB
+Created: 2025-12-23 08:44:44
+Modified: 2025-12-23 14:15:41.758161
+SHA256 Hash: 49e3021fa46b985330693998c4ec13fdae9fce69c7a4959718869f53c22faba6
+Status: SAFE
+Reason: No suspicious behavior detected
+--------------------------------------
+File Name: image.jpg
+Path: \forensic_tool\ScanFolder\image.jpg
+Size: 1.00 KB
+Created: 2025-12-23 08:44:44
+Modified: 2025-12-23 14:15:41.764444
+SHA256 Hash: 75a2fc825bf761b9a68cf491ada6705abc1bb2f8b156f2973041b8fbbf528781
+Status: SAFE
+Reason: No suspicious behavior detected
+--------------------------------------
+File Name: scanner.py
+Path: \forensic_tool\ScanFolder\scanner.py
+Size: 0.00 KB
+Created: 2025-12-22 23:20:53.201351
+Modified: 2025-12-22 21:09:01.047282
+SHA256 Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Status: SAFE
+Reason: No suspicious behavior detected
+--------------------------------------
+File Name: file2.pdf
+Path: \forensic_tool\ScanFolder\subfolder\file2.pdf
+Size: 2.00 KB
+Created: 2025-12-23 08:44:44
+Modified: 2025-12-23 14:15:41.779572
+SHA256 Hash: 638bae7eac28aeff55a791c488dd195e78b5c5d1ead131bdf287fe343aa67d96
+Status: SAFE
+Reason: No suspicious behavior detected
+--------------------------------------
